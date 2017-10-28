@@ -1,0 +1,7 @@
+JurlList 
+
+还得再优化下
+
+len(list_.split('/'))==5
+
+这样太蠢
